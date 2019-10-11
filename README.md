@@ -1,5 +1,7 @@
 # texthighlight
 
+This is a very simple example of text highlight using vue-text-highlight package (https://www.npmjs.com/package/vue-text-highlight). 
+
 ## Project setup
 ```
 npm install
